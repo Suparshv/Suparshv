@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Suparsh Anup Vhora
+I am a Software Developer and 3rd Computer Science student with a focus on building scalable, performance-driven web applications. 
+As a competitive track athlete, I bring the same discipline and drive for marginal gains to my code—optimizing for speed, efficiency, and clean architecture.
+My expertise spans the MERN Stack, Python, and .NET development, with a deep interest in AI and ML also.
 
-<!--
-**Suparshv/Suparshv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technical Toolkit
+Languages:Python, C#, Java,  JavaScript (ES6+), SQL ,TypeScript.
 
-Here are some ideas to get you started:
+Frontend: React.js,Tailwind CSS, Bootstrap, HTML,CSS,Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Node.js ,Express.js ,Django ,FastAPI ,RESTful APIs ,JWT Authentication
+
+Databases: PostgreSQL, MongoDB , MySQL , SQLite
+
+Tools: Docker Git GitHub Postman n8n Make BeautifulSoup
+
+📫 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/suparshvhora/
+
+Email: suparsh.vhora11908@gmail.com
