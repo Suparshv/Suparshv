@@ -1,21 +1,24 @@
-👋 Hi, I'm Suparsh Anup Vhora
-I am a Software Developer and 3rd Computer Science student with a focus on building scalable, performance-driven web applications. 
-As a competitive track athlete, I bring the same discipline and drive for marginal gains to my code—optimizing for speed, efficiency, and clean architecture.
-My expertise spans the MERN Stack, Python, and .NET development, with a deep interest in AI and ML also.
+# 👋 Hi, I'm Suparsh Anup Vhora 
 
-🛠️ Technical Toolkit
-Languages:Python, C#, Java,  JavaScript (ES6+), SQL ,TypeScript.
+I am a **Software Developer** and senior **Computer Science student** focused on building scalable, performance-driven web applications. As a competitive track athlete, I bring discipline and a drive for marginal gains to my code—optimizing for speed, efficiency, and clean architecture. My expertise spans the **MERN Stack**, **Python**, and **.NET development**, with a deep interest in AI and ML.
 
-Frontend: React.js,Tailwind CSS, Bootstrap, HTML,CSS,Angular.
+---
 
-Backend: Node.js ,Express.js ,Django ,FastAPI ,RESTful APIs ,JWT Authentication
+## 🛠️ Technical Toolkit
 
-Databases: PostgreSQL, MongoDB , MySQL , SQLite
+**Languages:** `Python` `C#` `Java` `JavaScript (ES6+)` `SQL` `TypeScript`
 
-Tools: Docker Git GitHub Postman n8n Make BeautifulSoup
+**Frontend:** `React.js` `Tailwind CSS` `Bootstrap` `HTML` `CSS` `Angular`
 
-📫 Connect with Me
+**Backend:** `Node.js` `Express.js` `Django` `FastAPI` `RESTful APIs` `JWT Authentication`
 
-LinkedIn: https://www.linkedin.com/in/suparshvhora/
+**Databases:** `PostgreSQL` `MongoDB` `MySQL` `SQLite`
 
-Email: suparsh.vhora11908@gmail.com
+**Tools:** `Docker` `Git` `GitHub` `Postman` `n8n` `Make` `BeautifulSoup`
+
+---
+
+## 📫 Connect with Me
+
+*   **LinkedIn:** [https://www.linkedin.com/in/suparshvhora/](https://www.linkedin.com/in/suparshvhora/)
+*   **Email:** [suparsh.vhora11908@gmail.com](mailto:suparsh.vhora11908@gmail.com)
